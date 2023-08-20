@@ -1,2 +1,2 @@
 # Imgur-Telegram_Bot
-A Telegram Bot To Upload Photo From Telegram To Imgur.com
+just install all the module and run the code. im to lazy to make some fancy ass readme
